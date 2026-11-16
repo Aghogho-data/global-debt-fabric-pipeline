@@ -181,3 +181,5 @@ One-to-many relationships from the three dimensions to `fact_debt`, with single-
 **Aghogho Faith Awaritoma, ACA**, Chartered Accountant & Data Analyst · Microsoft Certified: Power BI Data Analyst & Fabric Analytics Engineer
 
 🔗 [Portfolio](https://aghogho-data.github.io) · [LinkedIn](https://www.linkedin.com/in/awaritomafaith) · [GitHub](https://github.com/Aghogho-data)
+---
+© 2026 Aghogho Faith Awaritoma. All rights reserved.
